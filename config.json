@@ -1,0 +1,32 @@
+{
+    "info": {
+        "store"     : "Classy Nails",
+        "slug"      : "classy-nails",
+        "phone"     : "+716 695-8820", 
+        "email"     : "hungquoc1978@yahoo.com",
+        "address"   : "1023 Payne Ave North Tonawanda, NY 14120",
+        "time_1"    : "[Mon - Fri] 10:00 AM - 7:30 PM",
+        "time_2"    : "[Sat] 10:00 AM - 6:00 PM"
+    },
+    "url":  {
+        "facebook"  :   "https://www.facebook.com/classynails.ny/about/?ref=page_internal",
+        "instagram" :   "",
+        "google"    :   "https://goo.gl/maps/2kgL35herebgFNak7",
+        "booking"   :   "https://www.lldtek.com/salon/appt/NDQ1OTN8Y2xhc3N5MTAyM3xOWV8wNzc3MnxjNjk5ZDMzZTI5YjYzNjNjZTFhNTFkNmI2OTFkYTgwNg==",
+        "maps"      :   "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d11662.121059927613!2d-78.877084!3d43.0513139!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x9dd67ac3d6825a1b!2sClassy%20Nails!5e0!3m2!1sen!2s!4v1662458451383!5m2!1sen!2s"
+    },
+    "color": {
+        "primary"               :   "#d16c65",
+        "primary_light"         :   "#cbdfd2",
+        "primary_hover"         :   "#b25b54",
+        "secondary"             :   "#ffd86c",
+        "secondary_hover"       :   "#88BC3A",
+        "text_primary"          :   "#FFFFFF",
+        "text_primary_hover"    :   "#FFFFFF",
+        "text_secondary"        :   "#FFFFFF",
+        "text_secondary_hover"  :   "#FFFFFF",
+        "text_title"            :   "#429D64",
+        "text_title_hover"      :   "#90C73E"
+    },
+    "debug":    "on"
+}
